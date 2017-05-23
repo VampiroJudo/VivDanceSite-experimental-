@@ -203,3 +203,49 @@
 		margin-left: 25px;
 	}
 }
+
+/*TEAM*/
+
+.profile {
+    
+    padding: 50px 0 80px;
+    text-align: center;
+}
+
+.profile b,
+.profile h2,
+.profile h4 {
+    
+    margin: 20px 0 20px;
+    color: #4c4c4c;
+}
+
+
+.profile p {
+    
+    color: #737373;
+}
+
+.profile img {
+    
+    height: 150px;
+    width: 150px;
+    margin-top: 80px;
+}
+
+
+.profile i {
+    
+    height: 30px;
+    width: 30px;
+    padding: 5px;
+    font-size: 17px;
+    border-radius: 50%;
+    background-color: #a0db8e;
+    color: #fff;
+}
+
+.profile a:hover i {
+    
+    background-color: #709963;
+}
